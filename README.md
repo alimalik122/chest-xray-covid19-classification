@@ -66,7 +66,7 @@ model.save('covid19_xray_cnn.h5')
 
 ---
 
-## 🔬 Model Architecture
+## 🧠 Model Architecture
 
 - The CNN model is a Sequential Keras model with:
 - 3 Convolutional layers + MaxPooling + Dropout
