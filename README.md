@@ -18,8 +18,6 @@
 - [📝 Usage Guide](#-usage-guide)
 - [📈 Visual Results](#-visual-results)
   - [Loss & Accuracy Curves](#loss--accuracy-curves)
-  - [Accuracy Curve](#accuracy-curve)
-  - [Loss Curve](#loss-curve)
   - [Confusion Matrix Heatmap](#confusion-matrix-heatmap)
 - [📊 Results & Observations](#-results--observations)
 - [🧠 Model Architecture](#-model-architecture)
