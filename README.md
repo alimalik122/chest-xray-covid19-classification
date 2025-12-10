@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/chest_xray_covid_thumbnail.png" alt="Chest X-Ray Covid-19">
+</p>
+
 # Chest X‑Ray COVID‑19 Classification 🩺🧠
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
