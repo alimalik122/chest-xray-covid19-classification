@@ -22,6 +22,33 @@ This project implements a **Convolutional Neural Network (CNN)** to classify che
 
 ---
 
+## 🗂️ Dataset
+
+This project uses a **sample subset** of the publicly available **COVID-19 Chest X-ray dataset** from [Kaggle](https://www.kaggle.com/datasets/khoongweihao/covid19-xray-dataset-train-test-sets).  
+
+> ⚠️ **Important:** The dataset uploaded in this repository is **not the full dataset**. Only a small subset has been included for demonstration purposes. Users can download the complete dataset from Kaggle for larger-scale experiments.
+
+**Sample Dataset Details in this Repository:**
+
+| Split       | COVID-19 Images | Normal Images | Total |
+|------------|----------------|---------------|-------|
+| Training    | 36             | 36            | 74    |
+| Testing     | 10             | 10            | 20    |
+
+**Directory Structure:**
+xray_dataset_covid19/
+├── train/
+│ ├── PNEUMONIA/ # 36 images
+│ └── NORMAL/ # 36 images
+└── test/
+├── PNEUMONIA/ # 10 images
+└── NORMAL/ # 10 images
+├── single_prediction
+│ ├── PNEUMONIA/ # 1 images
+│ └── NORMAL/ # 2 images
+
+---
+
 ## 📁 Project Structure
 
 ---
@@ -136,7 +163,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ## 🙏 Acknowledgements
 
-- **Dataset**: Thanks to the creators of the publicly available COVID-19 Chest X-ray dataset used in this project.  
+- **Dataset**: Thanks to the creators of the publicly available COVID-19 Chest X-ray dataset used in this project - [Dataset](https://www.kaggle.com/datasets/khoongweihao/covid19-xray-dataset-train-test-sets).  
 - **Libraries & Frameworks**: Built with [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/), [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/).  
 - **Inspiration & Tutorials**: This project was inspired by various open-source COVID-19 detection tutorials and deep learning guides.  
 - **Community Contributions**: Open-source community support for code, tutorials, and dataset curation.
