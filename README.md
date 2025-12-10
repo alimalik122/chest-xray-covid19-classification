@@ -132,3 +132,28 @@ Feel free to open issues or pull requests if you:
 
 This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
+---
+
+---
+
+## 🙏 Acknowledgements
+- TensorFlow & Keras communities for excellent tools.  
+- Open-source datasets used for training (acknowledge your dataset).  
+- Tutorials and guides on CNNs that inspired this workflow.
+
+---
+
+## 👤 Author
+
+**Arian Jr**  
+📧 [Contact Me](arianjafar59@gmail.com) • 🌐 [GitHub Profile](https://github.com/ArianJr)
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/ArianJr" target="_blank">ArianJr</a>
+</p>
+
+<p align="center">
+  <sub>⭐ If you found this project useful, please consider giving it a star! It helps others discover it and supports my work.</sub>
+</p>
