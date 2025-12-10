@@ -160,12 +160,6 @@ Feel free to open issues or pull requests if you:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
-
----
-
 ## 🙏 Acknowledgements
 
 - **Dataset**: Thanks to the creators of the publicly available COVID-19 Chest X-ray dataset used in this project - [Dataset](https://www.kaggle.com/datasets/khoongweihao/covid19-xray-dataset-train-test-sets).  
@@ -174,6 +168,12 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 - **Community Contributions**: Open-source community support for code, tutorials, and dataset curation.
 
 > Special thanks to all researchers and developers contributing to publicly available COVID-19 datasets and deep learning resources.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
 ---
 
