@@ -43,7 +43,11 @@ This project implements a **Convolutional Neural Network (CNN)** to classify che
 5. After training, inspect evaluation outputs:  
    - Loss & accuracy curves across epochs  
    - Confusion matrix and classification report (precision, recall, F1‑score)  
-6. (Optional) Save the trained model to `model/` for future inference or fine‑tuning.
+6. Save the trained model to `model/` for future inference or fine‑tuning.
+Example code to save the trained model:
+```bash
+model.save('covid19_xray_cnn.h5')
+```
 
 ---
 
