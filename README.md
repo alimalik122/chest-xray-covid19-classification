@@ -8,6 +8,31 @@
 [![Python Version](https://img.shields.io/badge/Python-3.x-green.svg)](https://www.python.org/)  
 ![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-2.x-orange?logo=tensorflow&logoColor=white)  
 
+---
+
+## 📑 Table of Contents
+- [🚀 Project Overview](#-project-overview)
+- [🗂️ Dataset](#️-dataset)
+- [📁 Project Structure](#-project-structure)
+- [🧰 Requirements & Setup](#-requirements--setup)
+- [📝 Usage Guide](#-usage-guide)
+- [📈 Visual Results](#-visual-results)
+  - [Loss & Accuracy Curves](#loss--accuracy-curves)
+  - [Accuracy Curve](#accuracy-curve)
+  - [Loss Curve](#loss-curve)
+  - [Confusion Matrix Heatmap](#confusion-matrix-heatmap)
+- [📊 Results & Observations](#-results--observations)
+- [🧠 Model Architecture](#-model-architecture)
+  - [Model Summary](#model-summary)
+- [🔬 Why This Approach / Design Decisions](#-why-this-approach--design-decisions)
+- [📈 Possible Extensions & Future Work](#-possible-extensions--future-work)
+- [✅ Contributing](#-contributing)
+- [🙏 Acknowledgements](#-acknowledgements)
+- [📄 License](#-license)
+- [👤 Author](#-author)
+
+---
+
 ## 🚀 Project Overview
 
 This project implements a **Convolutional Neural Network (CNN)** to classify chest X-ray images into **COVID-19** and **Non-COVID** cases, using publicly available datasets. The aim is to provide a **proof‑of‑concept**, end‑to‑end demonstration — from image preprocessing and data loading, to model training, evaluation and visual inspection (e.g. via loss/accuracy curves, confusion matrices).
