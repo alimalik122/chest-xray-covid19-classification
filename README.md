@@ -56,16 +56,16 @@ model.save('covid19_xray_cnn.h5')
 ### Loss & Accuracy Curves
 Monitor the model’s training and validation performance over epochs.
 
-Accuracy Curve:
-![Accuracy Curve]()
+### Accuracy Curve
+![Accuracy Curve](assets/accuracy_curve.png)
 
-Loss Curve:
-![Loss Curve]()
+### Loss Curve
+![Loss Curve](assets/loss_curve.png)
 
 ### Confusion Matrix Heatmap
 Shows class-wise prediction performance on the test set.
 
-![Confusion Matrix Heatmap](path_to_confusion_matrix_heatmap.png)
+![Confusion Matrix Heatmap](confusion_matrix_heatmap.png)
 
 ---
 
